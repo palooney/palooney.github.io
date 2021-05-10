@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Changye Li's Homepage"
+title                    : "Changye Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
