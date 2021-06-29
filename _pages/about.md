@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Changye Li, a Ph.D. student of the [Institute for Health Informatics](https://healthinformatics.umn.edu/), [University of Minnesota](https://twin-cities.umn.edu/). My research interests including developing novel natural language processing methods on medical domain. My advisor is Professor [Serguei Pakhomov](https://www.pharmacy.umn.edu/bio/institute-of-personalized-medi/serguei-pakhomov).
+I'm Changye Li, a Ph.D. student of the [Institute for Health Informatics](https://healthinformatics.umn.edu/), [University of Minnesota](https://twin-cities.umn.edu/). My research interests include developing novel natural language processing methods on the health and medical domain. My advisor is Professor [Serguei Pakhomov](https://www.pharmacy.umn.edu/bio/institute-of-personalized-medi/serguei-pakhomov).
 
 ## What's New
 
