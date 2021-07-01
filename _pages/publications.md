@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Publications [Google Scholar](https://scholar.google.com/citations?user=YK4Z9jMAAAAJ&hl=en&authuser=2)
 
-# Publications [Google Scholar](https://scholar.google.com/citations?user=YK4Z9jMAAAAJ&hl=en&authuser=2)
 ## Journal Paper
 
 Guo, Y., **Li, C.**, Roan, C., Pakhomov, S., & Cohen, T. (2021).  Crossing the “Cookie Theft” Corpus Chasm: Applying What BERT Learns From Outside Data to the ADReSS Challenge Dementia Detection Task. *Frontiers in Computer Science*, *3*, 26. [link](https://www.frontiersin.org/articles/10.3389/fcomp.2021.642517/full)
